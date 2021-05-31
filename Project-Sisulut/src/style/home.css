@@ -1,0 +1,209 @@
+.roboto-regular {
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.logo-home {
+  top: 34px;
+}
+
+.section1-home {
+  height: 521px;
+  width: 100%;
+  border-radius: 0px;
+  background-image: url(../../img/Hero\ home.svg);
+}
+
+.h1-hero {
+  position: absolute;
+  width: 738px;
+  height: 72px;
+  left: 97px;
+  top: 177px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 90px;
+  letter-spacing: -0.025em;
+
+  color: #ffffff;
+}
+
+.p-hero {
+  position: absolute;
+  width: 735px;
+  height: 41px;
+  left: 100px;
+  top: 277px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #f4f1f1;
+}
+
+.btn-cek {
+  position: absolute;
+  width: 280.8px;
+  height: 50px;
+  left: 100.93px;
+  top: 371px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 40px;
+}
+
+.btn-cek-p {
+  text-decoration: none;
+  position: absolute;
+  width: 280.8px;
+  height: 28px;
+  left: 100.93px;
+  top: 382px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 105%;
+  /* or 23px */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.section2-home {
+  width: 100%;
+  height: 670px;
+  left: 0px;
+  top: 617px;
+
+  background: #e9e6e6;
+}
+
+.tittle-section2 {
+  position: absolute;
+  width: 675px;
+  height: 140px;
+  left: 97px;
+  top: 674px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 120%;
+  /* or 72px */
+
+  color: #000000;
+}
+
+.konten-section2 {
+  position: absolute;
+  width: 525px;
+  height: 112px;
+  left: 107px;
+  top: 829px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+.btn-coba {
+  position: absolute;
+  width: 281px;
+  height: 50px;
+  left: 107px;
+  top: 962px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 40px;
+}
+
+.btn-coba-p {
+  text-decoration: none;
+  position: absolute;
+  width: 281px;
+  height: 28px;
+  left: 107px;
+  top: 973px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 105%;
+  /* or 25px */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.section2-rating {
+  position: absolute;
+  top: 1141px;
+}
+
+.h-rating {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 120%;
+  text-align: center;
+  color: #000000;
+}
+
+.p-rating {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 120%;
+  /* or 29px */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.p-Trending {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-decoration-line: underline;
+
+  color: #000000;
+}
+
+.p-footer {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 120%;
+  /* or 22px */
+
+  color: #ffffff;
+}

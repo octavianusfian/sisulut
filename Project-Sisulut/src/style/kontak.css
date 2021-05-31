@@ -1,0 +1,66 @@
+.roboto-regular {
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.bg {
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  margin-top: -30px;
+}
+
+.section-col {
+  margin-top: 50px;
+}
+
+.section h2 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 120%;
+  /* or 58px */
+
+  color: #ffffff;
+}
+
+.section-form {
+  width: 497px;
+  height: 50px;
+
+  background: #fdfeff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.section-pesan {
+  width: 497px;
+  height: 309px;
+
+  background: #fdfeff;
+  box-shadow: 4px 4px 13px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.btn-kirim {
+  width: 190px;
+  height: 50px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+
+  color: #ffffff;
+
+  background: #007cdc;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 40px;
+}

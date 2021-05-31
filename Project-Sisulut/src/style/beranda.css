@@ -1,0 +1,139 @@
+.roboto-regular {
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.section1 {
+  width: 100%;
+  height: 521px;
+  background-image: url(../../img/Hero\ home.svg);
+}
+
+.section1 h2 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 90px;
+  letter-spacing: -0.025em;
+  margin-top: 80px;
+  color: #ffffff;
+}
+
+.section1 p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  margin-top: 25px;
+  color: #f4f1f1;
+  margin-bottom: 53px;
+}
+
+.button {
+  width: 280.8px;
+  height: 50px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 40px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 105%;
+  /* or 23px */
+
+  color: #000000;
+}
+
+.section2 {
+  background: #e9e6e6;
+  padding-top: 57px;
+  padding-bottom: 80px;
+}
+
+.section2 h2 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 120%;
+  /* or 72px */
+  margin-bottom: 15px;
+  color: #000000;
+}
+
+.section2 p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 21px;
+  color: #000000;
+}
+
+.rating-judul {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 120%;
+  /* or 43px */
+
+  color: #000000;
+}
+
+.rating-p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 120%;
+  /* or 29px */
+
+  color: #000000;
+}
+
+.section3{
+    padding-bottom: 75px;
+}
+
+.section3 h2 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 120%;
+  /* or 58px */
+  margin-bottom: 65px;
+  margin-top: 70px;
+
+  /* hitam 75% */
+
+  color: rgba(0, 0, 0, 0.75);
+}
+
+.img-trending {
+  width: 360px;
+  height: 200px;
+  border-radius: 20px;
+}
+
+.a-trending {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+
+  
+  color: #000000;
+}

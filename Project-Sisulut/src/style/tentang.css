@@ -1,0 +1,70 @@
+
+.roboto-regular {
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.section1 {
+  background-color: #007cdc;
+}
+
+.section1-judul {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 120%;
+  /* or 72px */
+
+  color: #ffffff;
+}
+
+.section-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 120%;
+  /* or 36px */
+
+  color: #e8e8e8;
+}
+
+.section2 {
+  padding-top: 70px;
+}
+
+.ilus2 {
+  margin-left: -120px;
+}
+
+.section2-judul {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+
+  /* hitam 75% */
+
+  color: rgba(0, 0, 0, 0.75);
+}
+
+.section2-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 30px;
+  line-height: 35px;
+
+  color: rgba(0, 0, 0, 0.8);
+}
+
+footer{
+  margin-top: 110px;
+}
